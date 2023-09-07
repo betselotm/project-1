@@ -1,1 +1,18 @@
 /* Place CSS styles here */
+body{
+    color: rgb(228, 202, 229);
+    background: rgb(4, 4, 98);
+}
+img{
+ width: 300px;   
+}
+p{
+
+}
+h1{
+
+}
+.Lsu-info{
+    text-align: right;
+    
+}
