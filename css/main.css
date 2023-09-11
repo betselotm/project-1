@@ -9,7 +9,7 @@ body{
  text-align: center;
  font-family: monospace;
  font-size: large;
- line-height: 0.2;
+ line-height: 0.4;
 }
 
 img{
@@ -18,9 +18,16 @@ img{
  color: #c2b2b4;
 }
 
+.social-border{
+ border-style: hidden;
+ color: #9abd97;
+ text-align: left;
+ 
+}
+
 .about-me{
  text-align: right;
-
+ line-height: 1;
 }
 
 .Lsu-info{
