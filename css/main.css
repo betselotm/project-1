@@ -1,11 +1,14 @@
 /* Place CSS styles here */
 body{
     color: rgb(37,41,89);
-    background: rgb(194,178,180);
+    background: rgb(205,235,216);
 }
 .header{
-    background:#e2c2ff;
-    position: center;
+    background:rgb(183,228,229);
+    align-items: center;
+    font-family: Verdana;
+    font-size: 70px;
+    line-height: 0.2;
 }
 img{
  width: 200px;   
