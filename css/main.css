@@ -13,9 +13,9 @@ body{
 }
 .logo-art{
  position: absolute;
- right: 410px;
+ right: 580px;
  top: 70px;
- width: 400px;
+ width: 40px;
  border: 1px;
 }
 img{
@@ -26,9 +26,13 @@ img{
 
 .social-border{
  position: absolute;
- right: 100px;
- width: 200px;
- border: 1px solid #483d03;
+ font-family: monospace;
+ font-style: oblique;
+ font-size: large;
+ right: 70px;
+ width: 400px;
+ top: 1030px;
+ border: 1px solid #221d07;
  text-align: right;
  line-height: .2;
 }
