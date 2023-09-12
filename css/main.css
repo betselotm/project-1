@@ -12,26 +12,25 @@ body{
  line-height: 0.4;
 }
 .logo-art{
-    position: absolute;
-    right: 100px;
-    width: 100px;
-    border: 1px solid rgb(5, 6, 26);
-    padding: 20px;
+ position: absolute;
+ right: 410px;
+ top: 70px;
+ width: 400px;
+ border: 1px;
 }
 img{
  width: 200px;   
  border-style: solid;
- color: #c2b2b4;
+ color: #f3dfe2;
 }
 
 .social-border{
- border-style: hidden;
+ position: absolute;
+ right: 100px;
+ width: 200px;
+ border: 1px solid #483d03;
  text-align: right;
-
-}
-
-.education{
- text-align: right;
+ line-height: .2;
 }
 
 .work-experience{
@@ -43,6 +42,6 @@ line-height: 1.5;
 }
 
 .about-me{
- text-align: right;
+ text-align: center;
  line-height: 1;
 }
