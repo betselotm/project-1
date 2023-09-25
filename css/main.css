@@ -6,10 +6,12 @@ body{
 
 .header{
  background:rgb(208,241,191);
+ display: flex;
+ flex-direction: column;
  text-align: center;
  font-family: monospace;
- font-size: large;
- line-height: 0.4;
+ font-size: 18px;
+ line-height: 0.01;
 }
 /* change all large font size into a specific numbers
 change postion of absolute to something else cuz it changes depending on computer size
@@ -17,9 +19,7 @@ add links to phone number and email
 try to fix header color cover
  */
 .logo-art{
- position: absolute;
- right: 580px;
- top: 70px;
+ position: static;
  width: 40px;
  border: 1px;
 }
@@ -31,13 +31,11 @@ img{
 }
 
 .social-border{
- position: absolute;
+ position: static;
  font-family: monospace;
  font-style: oblique;
- font-size: large;
- right: 70px;
+ font-size: 15px;
  width: 400px;
- top: 1070px;
  border: 1px solid #221d07;
  text-align: center;
  line-height: .2;
@@ -48,7 +46,7 @@ img{
 }
 
 .skills{
-line-height: 1.5;
+ line-height: 1.5;
 }
 
 .about-me{
